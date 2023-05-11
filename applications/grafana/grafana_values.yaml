@@ -1,1 +1,2 @@
 image: <+artifact.image>
+loadBalancerSourceRanges: <+serviceVariables.loadBalancerSourceRanges>
